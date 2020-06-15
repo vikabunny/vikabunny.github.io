@@ -1,0 +1,168 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+:focus,
+:active {
+  outline: none;
+}
+a:focus,
+header,
+aside {
+  display: block;
+}
+
+html,
+body {
+  height: 1064px;
+  width: 1190px;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+input,
+button,
+textarea {
+  font-family: inherit;
+}
+input::-ms-clear {
+  display: none;
+}
+button {
+  cursor: pointer;
+}
+button::-moz-focus-inner {
+  padding: 0;
+  border: o;
+}
+a,
+a:visited {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: 400;
+}
+
+body {
+  background: #e8e8e8 url(../jpg/Ellipse_1_copy.png) 142px 106px /   contain
+    no-repeat;
+  width: 1140px;
+  height: 1700px;
+
+  color: #273d46;
+
+  font-family: "Times New Roman", Times, serif;
+}
+.travel {
+  font-family: "Arial MT";
+  font-size: 14px;
+  margin: 168px 0 28px 0;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+  text-align: center;
+}
+h1 {
+  width: 721px;
+  height: 75px;
+  text-align: center;
+  font-size: 36px;
+  line-height: 50px;
+  margin: auto;
+}
+.light-man {
+  width: 821px;
+  height: 541px;
+  background: url(../jpg/light-man_copy.png) 0 0/100% auto no-repeat;
+  border: 10px solid #ffffff;
+  box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
+  margin: 87px auto 0 auto;
+}
+.text {
+  width: 736px;
+  opacity: 0.8;
+  color: #273d46;
+  font-size: 24px;
+  line-height: 40px;
+  margin: 97px auto 64px auto;
+}
+div.block {
+  width: 463px 131px;
+}
+.list {
+  margin: 0 0 0 203px;
+  font-size: 20px;
+  line-height: 36px;
+  font-family: "Arial MT";
+}
+
+.list li {
+  background: url(../jpg/check_icon.png) left no-repeat;
+  padding: 0 0 0 30px;
+}
+
+.l1 {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+  color: #273d46;
+}
+.l2 {
+  color: #80b7b3;
+  transform: skew(-10deg, 0);
+}
+.l3 {
+  color: #273d46;
+  font-weight: bold;
+}
+span.l4 {
+  opacity: 0.3;
+  color: #273d46;
+  text-decoration: line-through;
+}
+.buttom{
+  width: 199px;
+  height: 44px;
+ 
+  
+  background:#80b7b3 url(../jpg/Shape_2.png) 85% no-repeat ;
+  box-shadow: 0 6px 40px rgba(128, 183, 179, 0.54);
+ 
+  margin:59px 0 0 203px ;
+
+  
+}
+a.text{
+ 
+  color: #ffffff;
+  font-family: "Arial MT";
+  font-size: 14px;
+  line-height: 40px;
+  text-transform: uppercase;
+  letter-spacing: 2.8px;
+  padding: 0 0 0 30px;
+
+
+
+}
